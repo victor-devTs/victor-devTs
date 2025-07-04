@@ -1,16 +1,55 @@
-## Hi there 👋
+# Victor Tiago
 
-<!--
-**victor-devTs/victor-devTs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Backend`**
 
-Here are some ideas to get you started:
+Sou estudante de Ciência da Computação na Escola Superior Dom Helder Câmara, atualmente no 3º período, com foco em me desenvolver como desenvolvedor backend.
+Tenho me dedicado aos estudos de JavaScript, Node.js e Java, além de explorar HTML e CSS para entender todo o fluxo do desenvolvimento web, do frontend ao backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse especial por lógica de programação, APIs e estruturas de dados, e estou sempre buscando aplicar o que aprendo em projetos práticos, colaborando e evoluindo um pouco a cada dia.
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="NodeJs" 
+    title="NodeJs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
+
+<img
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
